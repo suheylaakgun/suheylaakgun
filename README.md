@@ -13,5 +13,5 @@ develop and develop individually and as a team.
 ### Connect with me
 
 <p align="left" dir="auto">
-<a href="https://linkedin.com/in/s%C3%BChe-akg%C3%BCn-38148891/" rel="nofollow"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="okanyilmaz28" height="30" width="40" style="max-width: 100%;"></a>
+<a href="https://www.linkedin.com/in/s%C3%BCheyla-akg%C3%BCn-38148891/" rel="nofollow"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="okanyilmaz28" height="30" width="40" style="max-width: 100%;"></a>
 </p>
